@@ -1,10 +1,10 @@
 {
   "tokens": [
-    "token 1",
-    "token 2",
-    "token 3"
+    "token d3a6559629241fd6baf0ba1ed74a2c2d61627fe49acc643a7ead13eac7137498bac75f6aef9a05edcf515",
+    "token ba0e1a8859bc85e7c81b24114febaaa41beee57c093f85e990a6600b7acef3d1d8dd71eec156e8c7d37f6",
+    "token 2854549213ffc10d100478dbc5ae301760681500798ce2e769a6402dee3120935241cc08d5bc227e3f35b"
   ],
-  "secret_code": "IDM secret code",
+  "secret_code": "0drgxrt30",
   "delete_all_notify": false,
   "ru_captcha_key": "",
   "ignored_members": [],
